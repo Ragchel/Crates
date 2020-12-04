@@ -28,7 +28,7 @@ Premium
 50k                 15.00%
 Beacon              10.00%
 100k                7.50%
-Bedrock Tools/Armor 2.50% (Tools Eff VI, Fortune IV, Unbr IV) (Fortune alleen pickaxe) (Armor Prot V, Thorns IV, Unbr IV) (Helmet +Aqua Aff II +Respiration IV) (Boots +Depth Strider IV)
+Bedrock Tools/Armor 2.50% Diamond (Tools Eff VI, Fortune IV, Unbr IV) (Fortune alleen pickaxe) (Armor Prot V, Thorns IV, Unbr IV) (Helmet +Aqua Aff II +Respiration IV) (Boots +Depth Strider IV)
 250k                3.25%
 * JACKPOT *         0.10% (wat jackpot ook mag betekenen)
 Shulker Spawner     0.25%
@@ -40,7 +40,7 @@ Reward
 
 Reward Tools        25.00% Diamond (Tools Unbr III, Fortune I) (Armor Prot III, Unbreak II)
 R/W/B Shulker       25.00%
-Obsidian Tools      5.00%
+Obsidian Tools      5.00%  Diamond (Tools Eff V, Unbr III, Mending) (Pickaxe +Fortune III)
 Elytra              5.00%
 Beacon              5.00%
 Premium key x1      1.00%
