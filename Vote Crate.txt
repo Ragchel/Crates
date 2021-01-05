@@ -3,18 +3,19 @@ Vote Crate
 Money bag 5k        10.00%
 Money bag 10k       1.00%
 Money bag 25k       0.50%
-Vote tools          10.00%
 Observer            15.00%
 Dropper             15.00%
 Dispenser           15.00%
-Vote Tools/Armor    20.00% Iron
+Vote tools          10.00%
 
     ^
     Iron Pickaxe    Efficiency 3, Unbreaking 2
     Iron Shovel     Efficiency 3, Unbreaking 2
     Iron Axe        Efficiency 3, Unbreaking 2
     Iron Hoe        Efficiency 3, Unbreaking 2
-Iron Armor
+Vote Armor          10.00%
+
+    ^
     Iron Helmet     Protection 3, Unbreaking 1
     Iron Chestplate Protection 3, Unbreaking 1
     Iron Leggings   Protection 3, Unbreaking 1
