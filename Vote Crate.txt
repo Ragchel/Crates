@@ -1,0 +1,39 @@
+Vote Crate
+
+Money bag 5k        10.00%
+Money bag 10k       1.00%
+Money bag 25k       0.50%
+Vote tools          10.00%
+Observer            15.00%
+Dropper             15.00%
+Dispenser           15.00%
+Vote Tools/Armor    20.00% Iron
+
+    ^
+    Iron Pickaxe    Efficiency 3, Unbreaking 2
+    Iron Shovel     Efficiency 3, Unbreaking 2
+    Iron Axe        Efficiency 3, Unbreaking 2
+    Iron Hoe        Efficiency 3, Unbreaking 2
+Iron Armor
+    Iron Helmet     Protection 3, Unbreaking 1
+    Iron Chestplate Protection 3, Unbreaking 1
+    Iron Leggings   Protection 3, Unbreaking 1
+    Iron Boots      Protection 3, Unbreaking 1
+
+(Sticky) Piston     10.00%
+Beacon              1.00%
+Cow Spawner         0.50%
+Sheep Spawner       0.50%
+Pig Spawner         1.00%*
+Zombie Spawner      0.25%
+Skeleton Spawner    0.25%
+Creeper Spawner     0.25%
+Squid  Spawner      1.00%
+Guardian Spawner    0.25%
+Premium key x1      0.25%
+Premium key x3      0.10%
+Premium key x5      0.05%
+EnderChest          0.75%
+
+
+*1 (varkens zijn useless behalve voedsel vandaar een hogere kans dan de rest)

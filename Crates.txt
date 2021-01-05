@@ -1,4 +1,4 @@
-Vote
+Vote Crate
 
 Money bag 5k        10.00%
 Money bag 10k       1.00%
@@ -7,12 +7,24 @@ Vote tools          10.00%
 Observer            15.00%
 Dropper             15.00%
 Dispenser           15.00%
-Vote Tools/Armor    20.00% Iron (Tools Eff III, Unb II) (Armor Prot III, Unbr I) (Armor kan heel onnodig zijn omdat je al met leather begint en je zelf heel veel input hebt of er uberhaupt hostiles kunnen spawnen)
+Vote Tools/Armor    20.00% Iron
+
+    ^
+    Iron Pickaxe    Efficiency 3, Unbreaking 2
+    Iron Shovel     Efficiency 3, Unbreaking 2
+    Iron Axe        Efficiency 3, Unbreaking 2
+    Iron Hoe        Efficiency 3, Unbreaking 2
+Iron Armor
+    Iron Helmet     Protection 3, Unbreaking 1
+    Iron Chestplate Protection 3, Unbreaking 1
+    Iron Leggings   Protection 3, Unbreaking 1
+    Iron Boots      Protection 3, Unbreaking 1
+
 (Sticky) Piston     10.00%
 Beacon              2.50%
 Cow Spawner         0.50%
 Sheep Spawner       0.50%
-Pig Spawner         1.00% (varkens zijn useless behalve voedsel)
+Pig Spawner         1.00%*
 Zombie Spawner      0.25%
 Skeleton Spawner    0.25%
 Creeper Spawner     0.25%
@@ -23,12 +35,24 @@ Premium key x3      0.10%
 Premium key x5      0.05%
 EnderChest          0.75%
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Premium
+Premium Crate
 
 50k                 15.00%
 Beacon              10.00%
 100k                7.50%
-Bedrock Tools/Armor 2.50% Diamond (Tools Eff VI, Fortune IV, Unbr IV) (Fortune alleen pickaxe) (Armor Prot V, Thorns IV, Unbr IV) (Helmet +Aqua Aff II +Respiration IV) (Boots +Depth Strider IV)
+Bedrock Tools/Armor 2.50% Diamond
+
+    ^
+    Diamond Pickaxe Efficiency 5, Unbreaking 4
+    Diamond Shovel  Efficiency 5, Unbreaking 4
+    Diamond Axe     Efficiency 5, Unbreaking 4
+    Diamond Hoe     Efficiency 5, Unbreaking 4
+Diamond Armor
+    Diamond Helmet      Protection 5, Thorns 4, Unbreaking 4, Aqua affinity 2, Respiration 4
+    Diamond Chestplate  Protection 5, Thorns 4, Unbreaking 4
+    Diamond Leggings    Protection 5, Thorns 4, Unbreaking 4
+    Diamond Boots       Protection 5, Thorns 4, Unbreaking 4, Depth Strider 4
+
 250k                3.25%
 * JACKPOT *         0.10% (wat jackpot ook mag betekenen)
 Shulker Spawner     0.25%
@@ -36,11 +60,26 @@ Iron Golem Spawner  0.01%
 WSkeleton Spawner   0.25%
 Slime Spawner       0.50%
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Reward
+Reward Crate
 
-Reward Tools        25.00% Diamond (Tools Unbr III, Fortune I) (Armor Prot III, Unbreak II)
+Reward Tools        25.00%
+
+    ^
+    Diamond Pickaxe Unbreaking 3, Fortune 1
+    Diamond Shovel  Unbreaking 3, Fortune 1
+    Diamond Axe     Unbreaking 3, Fortune 1
+    Diamond Hoe     Unbreaking 3, Fortune 1
+    Diamond Armor   Protection 3, Unbreaking 2
+
 R/W/B Shulker       25.00%
-Obsidian Tools      5.00%  Diamond (Tools Eff V, Unbr III, Mending) (Pickaxe +Fortune III)
+Obsidian Tools      5.00%
+
+    ^
+    Diamond Pickaxe Efficiency 5, Unbreaking 3, Mending, Fortune 3
+    Diamond Shovel  Efficiency 5, Unbreaking 3, Mending
+    Diamond Axe     Efficiency 5, Unbreaking 3, Mending
+    Diamond Hoe     Unbreaking 3, Mending
+
 Elytra              5.00%
 Beacon              5.00%
 Premium key x1      1.00%
@@ -59,3 +98,5 @@ Iron Golem Spawner  0.02
 WSkeleton Spawner   0.50
 Slime Spawner       1.00
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*1 (varkens zijn useless behalve voedsel vandaar een hogere kans dan de rest)

@@ -1,0 +1,24 @@
+Premium Crate
+
+50k                 15.00%
+Beacon              10.00%
+100k                7.50%
+Bedrock Tools/Armor 2.50% Diamond
+
+    ^
+    Diamond Pickaxe Efficiency 5, Unbreaking 4
+    Diamond Shovel  Efficiency 5, Unbreaking 4
+    Diamond Axe     Efficiency 5, Unbreaking 4
+    Diamond Hoe     Efficiency 5, Unbreaking 4
+Diamond Armor
+    Diamond Helmet      Protection 5, Thorns 4, Unbreaking 4, Aqua affinity 2, Respiration 4
+    Diamond Chestplate  Protection 5, Thorns 4, Unbreaking 4
+    Diamond Leggings    Protection 5, Thorns 4, Unbreaking 4
+    Diamond Boots       Protection 5, Thorns 4, Unbreaking 4, Depth Strider 4
+
+250k                3.25%
+* JACKPOT *         0.10% (wat jackpot ook mag betekenen)
+Shulker Spawner     0.25%
+Iron Golem Spawner  0.01%
+WSkeleton Spawner   0.25%
+Slime Spawner       0.50%

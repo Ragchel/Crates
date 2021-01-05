@@ -1,0 +1,37 @@
+Reward Crate
+
+Reward Tools        25.00%
+
+    ^
+    Diamond Pickaxe Unbreaking 3, Fortune 1
+    Diamond Shovel  Unbreaking 3, Fortune 1
+    Diamond Axe     Unbreaking 3, Fortune 1
+    Diamond Hoe     Unbreaking 3, Fortune 1
+    Diamond Armor   Protection 3, Unbreaking 2
+
+R/W/B Shulker       25.00%
+Obsidian Tools      5.00%
+
+    ^
+    Diamond Pickaxe Efficiency 5, Unbreaking 3, Mending, Fortune 3
+    Diamond Shovel  Efficiency 5, Unbreaking 3, Mending
+    Diamond Axe     Efficiency 5, Unbreaking 3, Mending
+    Diamond Hoe     Unbreaking 3, Mending
+
+Elytra              5.00%
+Beacon              5.00%
+Premium key x1      1.00%
+Premium key x3      0.50%
+Premium key x5      0.25%
+Cow Spawner         1.00
+Sheep Spawner       1.00
+Pig Spawner         2.00
+Zombie Spawner      0.50
+Skeleton Spawner    0.50
+Creeper Spawner     0.50
+Squid  Spawner      1.00
+Guardian Spawner    0.50
+Shulker Spawner     0.50
+Iron Golem Spawner  0.02
+WSkeleton Spawner   0.50
+Slime Spawner       1.00
